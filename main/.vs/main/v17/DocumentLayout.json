@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|d:\\fouronesvn\\stigmasvn\\fabricinspector\\main\\main\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clshklinescancamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\clshklinescancamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsprocessimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\clsprocessimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\formselecthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\formselecthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\formbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\formbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsdrawfabric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\clsdrawfabric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clspictureboxrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\clspictureboxrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsocwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\clsocwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\formsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\formsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsdrawlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\clsdrawlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\formsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C595609-C0B4-4BF0-825F-6987AB9F5357}|main\\main.csproj|solutionrelative:main\\formsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FouroneSvn\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LOG.Write.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FouroneSvn\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LogOnce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormSetup.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormSetup.cs",
+              "RelativeDocumentMoniker": "main\\FormSetup.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormSetup.cs",
+              "RelativeToolTip": "main\\FormSetup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwIcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:14:36.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormMain.cs",
+              "RelativeDocumentMoniker": "main\\FormMain.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormMain.cs",
+              "RelativeToolTip": "main\\FormMain.cs",
+              "ViewState": "AgIAAJ4CAAAAAAAAAAAvwK0CAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:37:04.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsDrawFabric.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsDrawFabric.cs",
+              "RelativeDocumentMoniker": "main\\clsDrawFabric.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsDrawFabric.cs",
+              "RelativeToolTip": "main\\clsDrawFabric.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAAAPMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:17:10.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormMain.cs",
+              "RelativeDocumentMoniker": "main\\FormMain.cs",
+              "ToolTip": "D:\\STIGMASVN\\fabricInspector\\main\\main\\FormMain.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\STIGMASVN\\fabricInspector\\main\\main\\FormMain.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:36:35.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FO.CLS.LOG.Write.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LOG.Write.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LOG.Write.cs",
+              "ToolTip": "D:\\FouroneSvn\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LOG.Write.cs",
+              "RelativeToolTip": "..\\..\\..\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LOG.Write.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T07:45:44.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsDrawLab.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsDrawLab.cs",
+              "RelativeDocumentMoniker": "main\\clsDrawLab.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsDrawLab.cs",
+              "RelativeToolTip": "main\\clsDrawLab.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswLcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:52:02.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSelectHistory.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormSelectHistory.cs",
+              "RelativeDocumentMoniker": "main\\FormSelectHistory.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormSelectHistory.cs",
+              "RelativeToolTip": "main\\FormSelectHistory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:38:52.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBase.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormBase.cs",
+              "RelativeDocumentMoniker": "main\\FormBase.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormBase.cs",
+              "RelativeToolTip": "main\\FormBase.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:14:39.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsHKLineScanCamera.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsHKLineScanCamera.cs",
+              "RelativeDocumentMoniker": "main\\clsHKLineScanCamera.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsHKLineScanCamera.cs",
+              "RelativeToolTip": "main\\clsHKLineScanCamera.cs",
+              "ViewState": "AgIAAN0BAAAAAAAAAAAAAPQBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:49:46.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsProcessImage.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsProcessImage.cs",
+              "RelativeDocumentMoniker": "main\\clsProcessImage.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsProcessImage.cs",
+              "RelativeToolTip": "main\\clsProcessImage.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAEwGIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:07:39.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsPictureBoxRectangle.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsPictureBoxRectangle.cs",
+              "RelativeDocumentMoniker": "main\\clsPictureBoxRectangle.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsPictureBoxRectangle.cs",
+              "RelativeToolTip": "main\\clsPictureBoxRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:46:40.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsOCWrapper.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsOCWrapper.cs",
+              "RelativeDocumentMoniker": "main\\clsOCWrapper.cs",
+              "ToolTip": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\clsOCWrapper.cs",
+              "RelativeToolTip": "main\\clsOCWrapper.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAFAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:38:39.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormSetup.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\FouroneSvn\\STIGMASVN\\fabricInspector\\main\\main\\FormSetup.cs",
+              "RelativeDocumentMoniker": "main\\FormSetup.cs",
+              "ToolTip": "D:\\STIGMASVN\\fabricInspector\\main\\main\\FormSetup.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\STIGMASVN\\fabricInspector\\main\\main\\FormSetup.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:19:06.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FO.CLS.LogOnce.cs",
+              "DocumentMoniker": "D:\\FouroneSvn\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LogOnce.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LogOnce.cs",
+              "ToolTip": "D:\\FouroneSvn\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LogOnce.cs",
+              "RelativeToolTip": "..\\..\\..\\fabricInspector\\FO.CLS\\FO.CLS\\LOG\\FO.CLS.LogOnce.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T07:45:43.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
